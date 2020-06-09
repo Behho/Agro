@@ -1,0 +1,16 @@
+<?php get_header();?>
+<?php require("aside.php")?>
+<?php require("title.php")?>
+<?php require("product-list.php")?>
+<?php require("lead.php")?>
+<?php require("thumb.php")?>
+<?php require("banner.php")?>
+<?php require("title.php")?>
+<?php require("product-list-footer.php")?>
+<?php require("food-group.php")?>
+<?php require("coment-slider.php")?>
+<?php require("title.php")?>
+<?php require("blog.php")?>
+<?php require("partners.php")?>
+<?php get_footer();?>
+<?php require("scriptsandEndOfSide.php")?>
